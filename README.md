@@ -34,6 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaweerahk&show_icons=true&locale=en" alt="ranaweerahk" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RanaweeraHK&theme=highcontrast" alt="GitHub Streak" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaweerahk&" alt="ranaweerahk" /></p>
 
 
