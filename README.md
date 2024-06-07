@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaweerahk&label=Profile%20views&color=0e75b6&style=flat" alt="ranaweerahk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaweerahk" alt="ranaweerahk" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science and Engineering.**
 
 - 📝 I regularly write articles on [https://dev-hashr.pantheonsite.io/](https://dev-hashr.pantheonsite.io/)
