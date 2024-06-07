@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Engineering.**
 
-- 📝 I regularly write articles on [https://dev-hashr.pantheonsite.io/](https://dev-hashr.pantheonsite.io/)
+- 📝 I regularly write articles on [my website](https://dev-hashr.pantheonsite.io/)
 
 - 📫 How to reach me **ranaweerahk@gmail.com**
 
